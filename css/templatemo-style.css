@@ -211,7 +211,7 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url(../img/banner_bg.jpg);
+  	background-image: url(../img/baseball_field2.png);
   	vertical-align: middle;
 }
 
@@ -250,7 +250,7 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/about-bg.jpg);
+	background-image: url(../img/animal-aquarium-boy-792643.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -295,132 +295,8 @@ bootstrap.min.css:5
 	margin-top: 35px;
 }
 
-
-.projects-holder .mix {
-  display: none;
-}
-
-.projects-holder {
-	padding: 30px 15px 0px 15px;
-}
-
-.filter-categories {;
-  margin-top: 60px;
-}
-
-.filter-categories ul li {
-  margin: 0px 10px 15px 0px;
-  display: block;
-}
-
-.filter-categories ul li span {
-  cursor: pointer;
-  color: #fff;
-  display: inline-block;
-  font-size: 15px;
-  text-transform: capitalize;
-  font-weight: 500;
-  left: 0.5px;
-}
-
-.filter-categories ul li.active span {
-  color: #f7c552;
-}
-
-#portoflio .page-section {
-	padding: 0px;
-}
-
-#portfolio .section-heading {
-	padding-top: 200px;
-	padding-bottom: 200px;
-	background-color: #33c1cf;
-	height: 732px;
-	margin-left: -100vh;
-	padding-left: 100vh;
-}
-
-#portfolio .project-item {
-	margin: 0px -16px;
-}
-
-#portfolio .section-heading h4 {
-	margin-top: 0px;
-	font-size: 20px;
-	text-transform: uppercase;
-	font-weight: 700;
-	color: #fff;
-	letter-spacing: 1px;
-}
-
-#portfolio .section-heading .line-dec {
-	width: 270px;
-	height: 1px;
-	background-color: rgba(250, 250, 250, 0.5);
-	margin: 20px 0px 15px 0px;
-}
-
-#portfolio .section-heading p {
-	color: #fff;
-	padding-right: 70px;
-}
-
-
-#testimonial {
-	background-color: #f7c552;
-	text-align: center;
-	padding: 100px 0px;
-}
-
-#testimonial .testimonials-item h4 {
-	color: #fff;
-	font-size: 17px;
-	font-weight: 500;
-	letter-spacing: 0.5px;
-	margin-top: 30px;
-	margin-bottom: 5px;
-}
-
-#testimonial .testimonials-item span {
-	font-size: 13px;
-	color: #fff;
-	letter-spacing: 0.5px;
-}
-
-#testimonial .testimonials-item p {
-	font-size: 16px;
-	color: #9a9a9a;
-	font-style: italic;
-	font-weight: 300;
-	background-color: #fff;
-	padding: 30px;
-	border-radius: 5px;	
-}
-
-.owl-pagination {
-  margin-top: 20px;
-  opacity: 1;
-  display: inline-block;
-}
-
-.owl-page span {
-  display: block;
-  width: 8px;
-  height: 8px;
-  margin: 0px 5px;
-  filter: alpha(opacity=50);
-  opacity: 0.5;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px;
-  background: #fff;
-}
-
-
-
-
 #blog {
-	background-image: url(../img/blog-bg.jpg);
+	background-image: url(../img/animal-blue-heron-egret-1561324.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -530,126 +406,6 @@ bootstrap.min.css:5
   display:table;
   clear:both;
 }
-
-#contact-us {
-	background-color: #596065;
-	text-align: center;
-	padding: 80px 0px;
-}
-
-#contact-us .section-heading h4 {
-	margin-top: 0px;
-	font-size: 20px;
-	text-transform: uppercase;
-	font-weight: 700;
-	color: #fff;
-	letter-spacing: 1px;
-}
-
-#contact-us .section-heading .line-dec {
-	width: 270px;
-	height: 1px;
-	background-color: rgba(250, 250, 250, 0.5);
-	margin: 20px auto 15px auto;
-}
-
-#contact-us .section-heading p {
-	color: #fff;
-	padding: 0px 33%;
-}
-
-#contact-us .pop-button {
-	margin-top: 30px;
-}
-
-#contact input {
-  border-radius: 0px;
-  padding-left: 15px;
-  font-size: 13px;
-  color: #232323;
-  background-color: rgba(250, 250, 250, 1);
-  outline: none;
-  border: none;
-  box-shadow: none;
-  line-height: 50px;
-  height: 50px;
-  width: 100%;
-  margin-bottom: 30px;
-}
-
-#contact textarea {
-  border-radius: 0px;
-  padding-left: 15px;
-  padding-top: 10px;
-  font-size: 13px;
-  color: #232323;
-  background-color: rgba(250, 250, 250, 1);
-  outline: none;
-  border: none;
-  box-shadow: none;
-  height: 165px;
-  max-height: 220px;
-  width: 100%;
-  margin-bottom: 25px;
-}
-
-#contact button {
-  display: inline-block;
-	background-color: #f7c552;
-	font-size: 13px;
-	padding: 12px 18px;
-	color: #fff;
-	font-weight: 500;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-	text-decoration: none;
-	border-radius: 20px;
-}
-
-
-.pop #contact {
-	z-index: 99999;
-	position: fixed;
-	top: 25%;
-	left: 20%;
-	right: 20%;
-}
-
-.pop {
-	z-index: 99999;
-	text-align: center;
-	padding: 30px;
-    display:none;
-    position:fixed;
-    width: 100%;
-    top:0;
-    left:0;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.9);
-    box-shadow: 0px 0px 15px;
-}
-
-.pop span {
-	z-index: 999;
-	position: relative;
-	margin-bottom: 20px;
-	cursor: pointer;
-	width: 44px;
-	height: 44px;
-	display: inline-block;
-	line-height: 44px;
-	color: #fff;
-	text-align: center;
-	background-color: #33c1cf;
-}
-
-.pop span:hover {
-	background-color: #596065;
-	transition: all 0.5s;
-}
-
-
-
 
 footer {
 	margin-top: -6px;
@@ -790,36 +546,6 @@ footer .connect-us ul li a:hover {
 
 	#about .service-item {
 		margin-bottom: 80px;
-	} 
-
-	#portfolio .section-heading {
-		text-align: center;
-		padding-top: 100px;
-		padding-bottom: 100px;
-		background-color: #33c1cf;
-		height: 505px;
-		margin-left: -15px;
-		padding-left: 0vh;
-		margin-right: -15px;
-		padding-right: 0vh;
-		overflow: hidden;
-	}
-
-	#portfolio .section-heading .line-dec {
-		margin: 20px auto 15px auto;
-	}
-
-	#portfolio .section-heading p {
-		padding: 0px 20px;
-	}
-
-	.projects-holder {
-		text-align: center;
-		padding: 15px 0px;
-	}
-
-	#portfolio .project-item {
-		margin: 15px 0px;
 	}
 
 	#blog .section-heading {
